@@ -1,68 +1,70 @@
-# xelauvas
+# Alex Savu
 
-**Technical Builder & Operator**  
-AI-assisted development • Backend systems • Product mindset
-
-I build real software systems in real-world constraints.  
-Focused on shipping working products, not collecting credentials.
+**Full-Stack Developer** · 5 Production Apps Live
+PHP · Python · JavaScript · PostgreSQL · AI APIs · Stripe Connect
 
 ---
 
 ## About
-I am a systems-oriented builder who designs and ships end-to-end software products using modern tooling and AI-assisted workflows.
 
-My work is shaped by real operational constraints: limited time, real users, and systems that must run reliably without constant supervision.  
-I care about structure, clarity, and practical outcomes more than hype or titles.
+Full-stack developer with 5 production apps serving real users today. After 15+ years managing hotels across the UK — from porter to General Manager — I taught myself to code and started building the tools I always wished existed.
 
----
+My edge: I understand both the operations and the technology. I've managed P&Ls, led teams of 50+ staff, and handled real-world logistics — so the software I build actually solves real problems.
 
-## What I work on
-- **Backend systems & automation**  
-  Python, async workflows, APIs, background jobs, real-time data processing
-
-- **AI integration (practical use)**  
-  LLMs used as force multipliers for analysis, decision support, and automation — not demos
-
-- **Product interfaces when needed**  
-  Mobile and UI layers built to support real systems (React Native / Expo)
+**Portfolio:** [xelauvas.dev](https://xelauvas.dev)
 
 ---
 
-## Selected projects
+## Production Apps
 
-### crypto-pulse
-A real-time backend system that monitors live market events and generates structured Telegram alerts.
+### [XelaSphere](https://xelasphere.com) · [Docs](https://github.com/xelauvas/xelasphere)
+Multi-provider AI chat platform — Claude, GPT, Gemini, Grok & open-source models.
+- Real-time streaming, web search, code artifacts
+- Multi-provider routing (5+ AI providers)
+- `PHP` `JavaScript` `PostgreSQL` `Claude API` `OpenRouter`
 
-- Async Python architecture (WebSockets + REST)
-- Live data ingestion and signal generation
-- AI-assisted contextual analysis
-- Built with production-style logging and lifecycle handling
+### [RatePulse](https://ratepulse.io) · [Docs](https://github.com/xelauvas/rate-pulse)
+AI-powered hotel revenue management with automated competitor rate scraping.
+- 21+ competitor rates tracked per scan
+- AI pricing recommendations & trend analysis
+- `Python` `FastAPI` `PostgreSQL` `Playwright` `React`
+
+### [Eitio](https://eitio.co.uk) · [Docs](https://github.com/xelauvas/eitio-doc)
+Food delivery marketplace with Stripe Connect payments.
+- Multi-vendor platform with commission tracking
+- AI-powered WhatsApp ordering
+- `PHP` `JavaScript` `PostgreSQL` `Stripe Connect` `Firebase`
+
+### [Hovely](https://hovely.net) · [Docs](https://github.com/xelauvas/hovely-doc)
+Hotel operations dashboard — housekeeping, breakfast, linen, rota, finance.
+- Vision AI invoice parsing (PDF/image)
+- Staff allocation & scheduling
+- `PHP` `JavaScript` `Tailwind CSS` `Vision AI`
+
+### [Arrivo](https://arrivo.club) · [Docs](https://github.com/xelauvas/arrivo-doc)
+Self check-in tablet kiosk for hotels.
+- Guest check-in flow with ID capture
+- Dinner upselling (30-40% conversion)
+- `React` `Firebase` `Express.js` `Stripe` `PWA`
 
 ---
 
-### xelas-platform
-A modular backend-oriented platform exploring service architecture, APIs, and system structure.
+## Tech Stack
 
-- Python backend with layered design (API, services, models)
-- Authentication, configuration, and data handling
-- Focus on maintainability and extensibility rather than quick demos
-
----
-
-### verselens
-A mobile application built with React Native and Expo, focused on clean structure and product UX.
-
-- TypeScript, Context-based state management
-- Clear separation of concerns
-- Built as a real product interface, not a UI experiment
-
----
-
-## Current focus
-- Deepening fundamentals: testing, system design, data structures & algorithms
-- Preparing for remote roles where ownership and delivery matter more than formal background
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | PHP 8.2, Python, FastAPI, REST APIs |
+| **Frontend** | JavaScript, React, Tailwind CSS, TypeScript |
+| **Database** | PostgreSQL, Firebase Firestore |
+| **AI** | Claude, GPT, Gemini, Groq, OpenRouter |
+| **Payments** | Stripe Connect |
+| **DevOps** | Docker, Linux/VPS, Git |
+| **Scraping** | Playwright, Selenium |
 
 ---
 
 ## Contact
-- GitHub: https://github.com/xelauvas
+
+- **Portfolio:** [xelauvas.dev](https://xelauvas.dev)
+- **Email:** contact@xelauvas.dev
+- **GitHub:** [github.com/xelauvas](https://github.com/xelauvas)
